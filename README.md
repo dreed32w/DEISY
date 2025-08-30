@@ -28,4 +28,4 @@ It uses `nmap` to detect running services and matches them against a list of kno
 
 Clone this repository:
 
-git clone https://github.com/YourUsername/DIESY.git
+https://github.com/dreed32w/DEISY.git
